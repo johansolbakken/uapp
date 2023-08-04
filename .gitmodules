@@ -1,0 +1,3 @@
+[submodule "vendor/updateable"]
+	path = vendor/updateable
+	url = https://github.com/johansolbakken/updateable
